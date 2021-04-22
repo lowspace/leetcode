@@ -13,4 +13,4 @@ Python version: 3.6.0
 | [13](https://leetcode.com/problems/roman-to-integer/) | [Roman to Integer](https://github.com/lowspace/leetcode/blob/main/code/13.%20Roman%20to%20Integer.ipynb) | rule-based method; O(n)|`previous and current comparison`|
 | [14](https://leetcode.com/problems/longest-common-prefix/) | [Longest Common Prefix](https://github.com/lowspace/leetcode/blob/main/code/14.%20Longest%20Common%20Prefix.ipynb) | 1. vertical scanning; O(nm) <br> 2. horizontal scanning;O(nm) <br> 3. divide and conquer; O(m\*log(n)) <br> 4. binary search; O(nm\*log(m)) | `input taxonomy` return taxonomy `vertical & horizontal`|
 | [20](https://leetcode.com/problems/valid-parentheses/) | [Valid Parentheses](https://github.com/lowspace/leetcode/blob/main/code/20.%20Valid%20Parentheses.ipynb) | eliminate the pairs by proximity; O(n) | `stack`all comparison | 
-| [21](https://leetcode.com/problems/merge-two-sorted-lists/) | [Merge Two Sorted Lists]() | | |
+| [21](https://leetcode.com/problems/merge-two-sorted-lists/) | [Merge Two Sorted Lists](https://github.com/lowspace/leetcode/blob/main/code/21.%20Merge%20Two%20Sorted%20Lists.ipynb) | | |
