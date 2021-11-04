@@ -15,3 +15,4 @@ Python version: 3.6.0
 | [20](https://leetcode.com/problems/valid-parentheses/) | [Valid Parentheses](https://github.com/lowspace/leetcode/blob/main/code/20.%20Valid%20Parentheses.ipynb) | eliminate the pairs by proximity; O(n) | `stack`all comparison | 
 | [21](https://leetcode.com/problems/merge-two-sorted-lists/) | [Merge Two Sorted Lists](https://github.com/lowspace/leetcode/blob/main/code/21.%20Merge%20Two%20Sorted%20Lists.ipynb) | | |
 | [67](https://leetcode.com/problems/add-binary/) | [Add Binary](https://github.com/lowspace/leetcode/blob/main/code/67.%20Add%20Binary.ipynb) | 1. binary-decimal-binary; O(n) <br> 2. standard math binary addition; O(n) 3. bitwise operations; O(1)|`bitwise``addition` |
+| [69](https://leetcode.com/problems/sqrtx/) | [Sqrt(x)](https://github.com/lowspace/leetcode/blob/main/code/69.%20Sqrt(x).ipynb) | 1. binary search; O(nlog2) <br> 2. Newton method|`binary search``newton` |
