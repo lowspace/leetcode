@@ -1,0 +1,13 @@
+{
+    "python.formatting.provider": "yapf",
+    "jupyter.jupyterServerType": "local",
+    "spellright.language": [
+        "en"
+    ],
+    "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext",
+        "python"
+    ]
+}
