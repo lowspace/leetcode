@@ -1,6 +1,6 @@
 # Python Leetcode
 
-Python version: 3.6.0
+Python version: 3.7.11
 
 # Problem & Solution
 
