@@ -24,3 +24,4 @@ Python version: 3.7.11
 | [1332](https://leetcode.com/problems/remove-palindromic-subsequences) | [Remove Palindromic Subsequences](https://github.com/lowspace/leetcode/blob/main/code/1332.%20Remove%20Palindromic%20Subsequences.ipynb) | 1. intutive method; O(1) | `palindrome` `intuition` |
 | [58](https://leetcode.com/problems/length-of-last-word) | [Length of Last Word](https://github.com/lowspace/leetcode/blob/main/code/58.%20Length%20of%20Last%20Word.ipynb) | brute force; O(n) | `string` |
 | [8](https://leetcode.com/problems/string-to-integer-(atoi)) | [String to Integer (atoi)](https://github.com/lowspace/leetcode/blob/main/code/8.%20String%20to%20Integer%20(atoi).ipynb) | brute force; O(n) | `string` `regex` |
+| [65](https://leetcode.com/problems/valid-number) | [Valid Number](https://github.com/lowspace/leetcode/blob/main/code/65.%20Valid%20Number.ipynb) | brute force; O(n) | `string` `regex` |
