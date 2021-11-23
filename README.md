@@ -26,3 +26,4 @@ Python version: 3.7.11
 | [8](https://leetcode.com/problems/string-to-integer-(atoi)) | [String to Integer (atoi)](https://github.com/lowspace/leetcode/blob/main/code/8.%20String%20to%20Integer%20(atoi).ipynb) | brute force; O(n) | `string` `regex` |
 | [65](https://leetcode.com/problems/valid-number) | [Valid Number](https://github.com/lowspace/leetcode/blob/main/code/65.%20Valid%20Number.ipynb) | brute force; O(n) | `string` `regex` |
 | [468](https://leetcode.com/problems/validate-ip-address) | [Validate IP Address](https://github.com/lowspace/leetcode/blob/main/code/468.%20Validate%20IP%20Address.ipynb) | 1. divide and conquer; O(n) <br> 2. regex; O(1) | `string` `regex` |
+| [709](https://leetcode.com/problems/to-lower-case) | [To Lower Case](https://github.com/lowspace/leetcode/blob/main/code/709.%20To%20Lower%20Case.ipynb) | 1. lower(); O(n) <br> 2. dictionary mapping; O(n) <br> 3. XOR method; O(n) | `string` `XOR` `mapping` |
