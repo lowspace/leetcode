@@ -27,3 +27,4 @@ Python version: 3.7.11
 | [65](https://leetcode.com/problems/valid-number) | [Valid Number](https://github.com/lowspace/leetcode/blob/main/code/65.%20Valid%20Number.ipynb) | brute force; O(n) | `string` `regex` |
 | [468](https://leetcode.com/problems/validate-ip-address) | [Validate IP Address](https://github.com/lowspace/leetcode/blob/main/code/468.%20Validate%20IP%20Address.ipynb) | 1. divide and conquer; O(n) <br> 2. regex; O(1) | `string` `regex` |
 | [709](https://leetcode.com/problems/to-lower-case) | [To Lower Case](https://github.com/lowspace/leetcode/blob/main/code/709.%20To%20Lower%20Case.ipynb) | 1. lower(); O(n) <br> 2. dictionary mapping; O(n) <br> 3. XOR method; O(n) | `string` `XOR` `mapping` |
+| [38](https://leetcode.com/problems/count-and-sa) | [Count and Sa](https://github.com/lowspace/leetcode/blob/main/code/38.%20Count%20and%20Say.ipynb) | 1. straightforward loop; O(n) <br> 2. recursive; O(n) | `string` `recursive` `while` |
