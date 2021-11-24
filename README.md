@@ -30,3 +30,4 @@ Python version: 3.7.11
 | [38](https://leetcode.com/problems/count-and-sa) | [Count and Sa](https://github.com/lowspace/leetcode/blob/main/code/38.%20Count%20and%20Say.ipynb) | 1. straightforward loop; O(n) <br> 2. recursive; O(n) | `string` `recursive` `while` |
 | [151](https://leetcode.com/problems/reverse-words-in-a-string) | [Reverse Words in a String](https://github.com/lowspace/leetcode/blob/main/code/151.%20Reverse%20Words%20in%20a%20String.ipynb) | by steps; O(n) | `string` `split` |
 | [6](https://leetcode.com/problems/zigzag-conversio) | [Zigzag Conversio](https://github.com/lowspace/leetcode/blob/main/code/6.%20Zigzag%20Conversion.ipynb) | 1. built by columns; O(n) <br> 2. built by rows; O(n) | `string` `sequence` `intuition` |
+| [1694](https://leetcode.com/problems/reformat-phone-number) | [Reformat Phone Number](https://github.com/lowspace/leetcode/blob/main/code/1694.%20Reformat%20Phone%20Number.ipynb) | step by step; O(n) | `string` |
