@@ -2,6 +2,9 @@
 
 Python version: 3.7.11
 
+Leetcode profile: https://leetcode.com/dnhb/
+
+
 # Problem & Solution
 
 | # | Title | Basic idea (One line) | Tags |
