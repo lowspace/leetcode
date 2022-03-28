@@ -4,6 +4,18 @@ Python version: 3.7.11
 
 Leetcode profile: https://leetcode.com/dnhb/
 
+# User Guide
+
+`init.py`: This script allows users to create a Jupyter notebook of a Leetcode problem by typing the **name** or **URL** of that problem in [leetcode.com](https://leetcode.com/), and this notebook consists of six parts:
+
++ Problem content
++ Summary
++ Problem Description
++ Method
++ Footnote
++ script that adds summary to `README.md` file
+
+`Template.ipynb`: This file is an instance created by `init.py`.
 
 # Problem & Solution
 
