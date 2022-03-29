@@ -139,8 +139,7 @@ methods = "# Methods\n\n"
 method_1 = "## Method 1\n\n"
 code_1 = ""
 footnotes = "# Footnotes\n\n"
-code_readMe = """
-# add the doc information to README 
+code_readMe = """# add the doc information to README 
 from tools.setup import generate_row as g
 
 g()
