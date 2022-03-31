@@ -142,8 +142,7 @@ footnotes = "# Footnotes\n\n"
 code_readMe = """# add the doc information to README 
 from tools.setup import generate_row as g
 
-g()
-"""
+g()"""
 
 nb['cells'] = [nbf.v4.new_markdown_cell(problem),
                nbf.v4.new_markdown_cell(summary),
