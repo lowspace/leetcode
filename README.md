@@ -57,3 +57,4 @@ Leetcode profile: https://leetcode.com/dnhb/
 | [520](https://leetcode.com/problems/detect-capital) | [Detect Capital](https://github.com/lowspace/leetcode/blob/main/code/520.%20Detect%20Capital.ipynb) | 1. brute force; O(n) <br> 2. two pointer; O(n/2) <br> 3. regex; O(n) | `built-in method` `regex` `two pointer` |
 | [941](https://leetcode.com/problems/valid-mountain-arra) | [Valid Mountain Arra](https://github.com/lowspace/leetcode/blob/main/code/941.%20Valid%20Mountain%20Array.ipynb) | 1. two pointer; O(n) <br> 2. one pass; O(n) | `two pointer` `one pass` |
 | [62](https://leetcode.com/problems/unique-paths) | [Unique Paths](https://github.com/lowspace/leetcode/blob/main/code/62.%20Unique%20Paths.ipynb) | DP, O(mn) | `DP` |
+| [63](https://leetcode.com/problems/unique-paths-ii) | [Unique Paths II](https://github.com/lowspace/leetcode/blob/main/code/63.%20Unique%20Paths%20II.ipynb) | DP, O(mn) | `DP` `boundary condition` |
