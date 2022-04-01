@@ -59,3 +59,4 @@ Leetcode profile: https://leetcode.com/dnhb/
 | [62](https://leetcode.com/problems/unique-paths) | [Unique Paths](https://github.com/lowspace/leetcode/blob/main/code/62.%20Unique%20Paths.ipynb) | DP, O(mn) | `DP` |
 | [63](https://leetcode.com/problems/unique-paths-ii) | [Unique Paths II](https://github.com/lowspace/leetcode/blob/main/code/63.%20Unique%20Paths%20II.ipynb) | DP, O(mn) | `DP` `boundary condition` |
 | [64](https://leetcode.com/problems/minimum-path-sum) | [Minimum Path Sum](https://github.com/lowspace/leetcode/blob/main/code/64.%20Minimum%20Path%20Sum.ipynb) | 1. recursive DP; O(mn) <br> 2. iterative DP; O(mn) | `DP` `recursive` `iterative` |
+| [70](https://leetcode.com/problems/climbing-stairs) | [Climbing Stairs](https://github.com/lowspace/leetcode/blob/main/code/70.%20Climbing%20Stairs.ipynb) | 1. combination method; O(n) <br> 2. DP; O(n) | `DP` `combination` |
