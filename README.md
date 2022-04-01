@@ -6,7 +6,7 @@ Leetcode profile: https://leetcode.com/dnhb/
 
 # User Guide
 
-`init.py`: This script allows users to create a Jupyter notebook of a Leetcode problem by typing the **name** or **URL** of that problem in [leetcode.com](https://leetcode.com/), and this notebook consists of six parts:
+`init.py`: This script allows users to create a Jupyter notebook of a Leetcode problem by paste the **name** or **URL** of that problem in [leetcode.com](https://leetcode.com/) from computer clipboard, and this notebook consists of six parts:
 
 + Problem content
 + Summary
