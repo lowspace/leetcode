@@ -6,6 +6,7 @@ import requests
 import re
 import nbformat as nbf
 import os
+import pyperclip
 
 class LeetcodeConverter(MarkdownConverter):
     """
@@ -40,13 +41,28 @@ def parse_problem_name(s: str) -> str:
     else:
         return name_parser(s)
 
+def valid_name(s: str) -> bool:
+    cwd = os.getcwd()
+    code_dir = os.path.join(cwd, 'code')
+    s = re.sub('-', ' ', s)
+    for i in os.listdir(code_dir):
+        if s in i:
+            return False
+    
+    return True
+
 # REF: https://stackoverflow.com/questions/56608480/parsing-leetcode-question-content-with-requests-and-beautifulsoup
 content = None
 
 while not content:
-    problem_name = input('plz type the problem name or URL.')
+    problem_name = pyperclip.paste()
     r = None
     problem_name = parse_problem_name(problem_name)
+    print(f'The problem name is {problem_name}')
+    if not valid_name(problem_name):
+        print('The file is already in the code folder, plz check again.')
+        sleep(10)
+        continue
     data = {"operationName":"questionData",
             "variables":{"titleSlug":problem_name},
             "query":"""
