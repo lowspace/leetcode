@@ -60,3 +60,4 @@ Leetcode profile: https://leetcode.com/dnhb/
 | [63](https://leetcode.com/problems/unique-paths-ii) | [Unique Paths II](https://github.com/lowspace/leetcode/blob/main/code/63.%20Unique%20Paths%20II.ipynb) | DP, O(mn) | `DP` `boundary condition` |
 | [64](https://leetcode.com/problems/minimum-path-sum) | [Minimum Path Sum](https://github.com/lowspace/leetcode/blob/main/code/64.%20Minimum%20Path%20Sum.ipynb) | 1. recursive DP; O(mn) <br> 2. iterative DP; O(mn) | `DP` `recursive` `iterative` |
 | [70](https://leetcode.com/problems/climbing-stairs) | [Climbing Stairs](https://github.com/lowspace/leetcode/blob/main/code/70.%20Climbing%20Stairs.ipynb) | 1. combination method; O(n) <br> 2. DP; O(n) | `DP` `combination` |
+| [66](https://leetcode.com/problems/plus-one) | [Plus One](https://github.com/lowspace/leetcode/blob/main/code/66.%20Plus%20One.ipynb) | 1. mathematical rule; O(n) <br> 2. built-in convert; O(n) | `mathematical` `built-in` |
